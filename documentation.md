@@ -62,3 +62,16 @@ This service contains traces for fault locations that were used to caclulate the
 
 2014 Hazard Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/hazfaults2014/MapServer <br>
 This service contains traces for fault locations that were used to caclulate the 2014 National Seismic Hazards Mapping project data.<br><br><br>
+
+### Landslides (*ls* folder)
+There are currently GIS services for 1 project within the landslides team.  This project is for **Post-Fire Debris-FLow Hazards**.<br> <br>
+
+GIS Services for the **Post-Fire Debris-FLow Hazards** Project <br>
+For more information about the project itself please visit: http://landslides.usgs.gov/hazards/postfire_debrisflow/<br>
+
+2013/2014 Post-Fire Debris Flow Combined Hazard Basins: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014CombinedHazardBasins/MapServer <br>
+This service contains basin polygons with "Combined Hazard" data for debris flow areas after fires.
+
+2013/2014 Post-Fire Debris Flow Combined Hazard Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014CombinedHazardSegments/MapServer <br>
+This service contains stream channel segments of "Combined Hazard" data for debris flow areas after fires.
+
