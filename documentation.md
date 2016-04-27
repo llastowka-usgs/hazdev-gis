@@ -7,11 +7,11 @@ There are 4 folders for varying geologic hazards in the home area on the GIS ser
 They are eq (earthquakes), gm (geomagnetism), haz (earthquake hazards), and ls (landlsides).  Each directory contains services with data that pertain to each discipline.  Services for each discipline are outlined below.
 
 ### Earthquakes (*eq* folder)
-There are currently GIS services for 3 projects within the earthquake team.  These projects are **Slab Models for Subduction Zones**, **Tweet Earthquake Dispatch (TED)**, and **ShakeMap**.
+There are currently GIS services for 3 projects within the earthquake team.  These projects are **Slab Models for Subduction Zones**, **Tweet Earthquake Dispatch (TED)**, and **ShakeMap**. <br>
 
 
 GIS Services for the **Slab Models for Subduction Zones** Project <br>
-For more information about the project itself please visit: http://earthquake.usgs.gov/data/slab/
+For more information about the project itself please visit: http://earthquake.usgs.gov/data/slab/<br>
 
 
 Slab Depth Contours: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_depth/MapServer <br>
@@ -24,11 +24,11 @@ Slab Strike Contours: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_st
 This service contains linear contours showing subduction zone strike values around the world
 
 Slab Grid Points: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_grid/MapServer <br>
-This service contains a grid of points showing subduction zone depth, dip, and strike values around the world
+This service contains a grid of points showing subduction zone depth, dip, and strike values around the world <br>
 
 
 GIS Services for the **Tweet Earthquake Dispatch (TED)** Project <br>
-For more information about the project itself please visit: http://earthquake.usgs.gov/earthquakes/ted/
+For more information about the project itself please visit: http://earthquake.usgs.gov/earthquakes/ted/ <br>
 
 TED Napa Tweets: http://earthquake.usgs.gov/arcgis/rest/services/eq/ted_NapaTweets/MapServer <br>
 This service contains tweets corresponding to the August 24, 2014 M6.0 Napa earthquake.  The service is a sample of the data harvested by the TED project.
