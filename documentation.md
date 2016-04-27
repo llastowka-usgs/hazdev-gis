@@ -36,3 +36,9 @@ This service contains tweets corresponding to the August 24, 2014 M6.0 Napa eart
 TED Napa Heatmap: http://earthquake.usgs.gov/arcgis/rest/services/eq/ted_NapaHeatmap/MapServer <br>
 This service contains a tweet density heatmap corresponding to the August 24, 2014 M6.0 Napa earthquake. <br><br>
 
+GIS Service for the **ShakeMap** Project <br>
+For more information about the project itself please visit: http://earthquake.usgs.gov/data/shakemap/ <br>
+
+30 Day Significant Earthquake ShakeMap Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/sm_ShakeMap30DaySignificant/MapServer <br>
+This service contains ShakeMap station, mi, pga, pgv, psa03, psa10, and psa30 data.  It is updated every 15 minutes with significant earthquake events from around the world. <br><br>
+
