@@ -24,3 +24,12 @@ This service contains linear contours showing subduction zone strike values arou
 Slab Grid Points: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_grid/MapServer <br>
 This service contains a grid of points showing subduction zone depth, dip, and strike values around the world
 
+GIS Services for the **Tweet Earthquake Dispatch (TED)** Project <br>
+For more information about the project itself please visit: http://earthquake.usgs.gov/earthquakes/ted/
+
+TED Napa Tweets: http://earthquake.usgs.gov/arcgis/rest/services/eq/ted_NapaTweets/MapServer <br>
+This service contains tweets corresponding to the August 24, 2014 M6.0 Napa earthquake.  The service is a sample of the data harvested by the TED project.
+
+TED Napa Heatmap: http://earthquake.usgs.gov/arcgis/rest/services/eq/ted_NapaHeatmap/MapServer <br>
+This service contains a tweet density heatmap corresponding to the August 24, 2014 M6.0 Napa earthquake.
+
