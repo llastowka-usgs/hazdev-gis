@@ -103,5 +103,8 @@ This service contains stream channel segments of "Probability" data for debris f
 This service contains basin polygons with "Volume" data for debris flow areas after fires during the year of 2015.
 
 2015 Post-Fire Debris Flow Volume Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015VolumeSegments/MapServer <br>
-This service contains stream channel segments of "Volume" data for debris flow areas after fires during the year of 2015.
+This service contains stream channel segments of "Volume" data for debris flow areas after fires during the year of 2015.<br><br><br>
+
+### Geomagnetism (*gm* folder)
+There are currently no GIS services for the Geomagnetism project.  More information on the Geomagnetism project can be found at: http://geomag.usgs.gov/<br><br>
 
