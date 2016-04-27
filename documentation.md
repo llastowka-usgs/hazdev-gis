@@ -75,3 +75,9 @@ This service contains basin polygons with "Combined Hazard" data for debris flow
 2013/2014 Post-Fire Debris Flow Combined Hazard Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014CombinedHazardSegments/MapServer <br>
 This service contains stream channel segments of "Combined Hazard" data for debris flow areas after fires during the years of 2013 and 2014.
 
+2013/2014 Post-Fire Debris Flow Probability Basins: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014ProbabilityBasins/MapServer <br>
+This service contains basin polygons with "Probability" data for debris flow areas after fires during the years of 2013 and 2014.
+
+2013/2014 Post-Fire Debris Flow Probability Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014ProbabilitySegments/MapServer <br>
+This service contains stream channel segments of "Probability" data for debris flow areas after fires during the years of 2013 and 2014.
+
