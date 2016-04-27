@@ -70,8 +70,8 @@ GIS Services for the **Post-Fire Debris-FLow Hazards** Project <br>
 For more information about the project itself please visit: http://landslides.usgs.gov/hazards/postfire_debrisflow/<br>
 
 2013/2014 Post-Fire Debris Flow Combined Hazard Basins: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014CombinedHazardBasins/MapServer <br>
-This service contains basin polygons with "Combined Hazard" data for debris flow areas after fires.
+This service contains basin polygons with "Combined Hazard" data for debris flow areas after fires during the years of 2013 and 2014.
 
 2013/2014 Post-Fire Debris Flow Combined Hazard Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014CombinedHazardSegments/MapServer <br>
-This service contains stream channel segments of "Combined Hazard" data for debris flow areas after fires.
+This service contains stream channel segments of "Combined Hazard" data for debris flow areas after fires during the years of 2013 and 2014.
 
