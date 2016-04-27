@@ -14,5 +14,6 @@ GIS Services for the **Slab Models for Subduction Zones** Project
 For more information about this project itself please visit: http://earthquake.usgs.gov/data/slab/
 
 Slab Depth Contours: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_depth/MapServer
+
 This service contains linear contours showing subduction zone depth around the world
 
