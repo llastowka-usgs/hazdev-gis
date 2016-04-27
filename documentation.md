@@ -21,3 +21,6 @@ This service contains linear contours showing subduction zone dip values around 
 Slab Strike Contours: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_strike/MapServer <br>
 This service contains linear contours showing subduction zone strike values around the world
 
+Slab Grid Points: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_grid/MapServer <br>
+This service contains a grid of points showing subduction zone depth, dip, and strike values around the world
+
