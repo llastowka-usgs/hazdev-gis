@@ -87,3 +87,21 @@ This service contains basin polygons with "Volume" data for debris flow areas af
 2013/2014 Post-Fire Debris Flow Volume Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014VolumeSegments/MapServer <br>
 This service contains stream channel segments of "Volume" data for debris flow areas after fires during the years of 2013 and 2014.
 
+2015 Post-Fire Debris Flow Combined Hazard Basins: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015CombinedHazardBasins/MapServer <br>
+This service contains basin polygons with "Combined Hazard" data for debris flow areas after fires during the year of 2015.
+
+2015 Post-Fire Debris Flow Combined Hazard Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015CombinedHazardSegments/MapServer <br>
+This service contains stream channel segments of "Combined Hazard" data for debris flow areas after fires during the year of 2015.
+
+2015 Post-Fire Debris Flow Probability Basins: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015ProbabilityBasins/MapServer <br>
+This service contains basin polygons with "Probability" data for debris flow areas after fires during the year of 2015.
+
+2015 Post-Fire Debris Flow Probability Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015ProbabilitySegments/MapServer <br>
+This service contains stream channel segments of "Probability" data for debris flow areas after fires during the year of 2015.
+
+2015 Post-Fire Debris Flow Volume Basins: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015VolumeBasins/MapServer <br>
+This service contains basin polygons with "Volume" data for debris flow areas after fires during the year of 2015.
+
+2015 Post-Fire Debris Flow Volume Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015VolumeSegments/MapServer <br>
+This service contains stream channel segments of "Volume" data for debris flow areas after fires during the year of 2015.
+
