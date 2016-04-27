@@ -66,7 +66,7 @@ This service contains traces for fault locations that were used to caclulate the
 ### Landslides (*ls* folder)
 There are currently GIS services for 1 project within the landslides team.  This project is for **Post-Fire Debris-FLow Hazards**.<br> <br>
 
-GIS Services for the **Post-Fire Debris-FLow Hazards** Project <br>
+GIS Services for the **Post-Fire Debris-Flow Hazards** Project <br>
 For more information about the project itself please visit: http://landslides.usgs.gov/hazards/postfire_debrisflow/<br>
 
 2013/2014 Post-Fire Debris Flow Combined Hazard Basins: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014CombinedHazardBasins/MapServer <br>
@@ -80,4 +80,10 @@ This service contains basin polygons with "Probability" data for debris flow are
 
 2013/2014 Post-Fire Debris Flow Probability Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014ProbabilitySegments/MapServer <br>
 This service contains stream channel segments of "Probability" data for debris flow areas after fires during the years of 2013 and 2014.
+
+2013/2014 Post-Fire Debris Flow Volume Basins: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014VolumeBasins/MapServer <br>
+This service contains basin polygons with "Volume" data for debris flow areas after fires during the years of 2013 and 2014.
+
+2013/2014 Post-Fire Debris Flow Volume Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2013_2014VolumeSegments/MapServer <br>
+This service contains stream channel segments of "Volume" data for debris flow areas after fires during the years of 2013 and 2014.
 
