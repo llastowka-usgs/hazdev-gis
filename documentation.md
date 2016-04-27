@@ -29,7 +29,7 @@ This service contains a grid of points showing subduction zone depth, dip, and s
 
 GIS Services for the **Tweet Earthquake Dispatch (TED)** Project <br>
 For more information about the project itself please visit: http://earthquake.usgs.gov/earthquakes/ted/ <br>
-
+-----------------------------------------------------------------------------------------------------------
 TED Napa Tweets: http://earthquake.usgs.gov/arcgis/rest/services/eq/ted_NapaTweets/MapServer <br>
 This service contains tweets corresponding to the August 24, 2014 M6.0 Napa earthquake.  The service is a sample of the data harvested by the TED project.
 
