@@ -48,3 +48,17 @@ There are currently GIS services for 1 project within the earthquake team.  This
 GIS Services for the **Quaternary Faults of the United States** Project <br>
 For more information about the project itself please visit: http://earthquake.usgs.gov/hazards/qfaults/<br>
 
+Quaternary Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/qfaults/MapServer <br>
+This service contains quaternary fault traces and fault areas for the United States.
+
+Paleosites: http://earthquake.usgs.gov/arcgis/rest/services/haz/paleosites/MapServer <br>
+This service contains some paleosite locations near faults in the United States.
+
+2002 Hazard Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/hazfaults2002/MapServer <br>
+This service contains traces for fault locations that were used to caclulate the 2002 National Seismic Hazards Mapping project data.
+
+2008 Hazard Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/hazfaults2008/MapServer <br>
+This service contains traces for fault locations that were used to caclulate the 2008 National Seismic Hazards Mapping project data.
+
+2014 Hazard Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/hazfaults2014/MapServer <br>
+This service contains traces for fault locations that were used to caclulate the 2014 National Seismic Hazards Mapping project data.<br><br><br>
