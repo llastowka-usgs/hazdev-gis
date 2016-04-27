@@ -9,11 +9,9 @@ They are eq (earthquakes), gm (geomagnetism), haz (earthquake hazards), and ls (
 ### Earthquakes (*eq* folder)
 There are currently GIS services for 3 projects within the earthquake team.  These projects are **Slab Models for Subduction Zones**, **Tweet Earthquake Dispatch (TED)**, and **ShakeMap**.
 
-GIS Services for the **Slab Models for Subduction Zones** Project
-
+GIS Services for the **Slab Models for Subduction Zones** Project <br>
 For more information about this project itself please visit: http://earthquake.usgs.gov/data/slab/
 
-Slab Depth Contours: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_depth/MapServer
-
+Slab Depth Contours: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_depth/MapServer <br>
 This service contains linear contours showing subduction zone depth around the world
 
