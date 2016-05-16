@@ -106,7 +106,7 @@ This service contains basin polygons with "Volume" data for debris flow areas af
 This service contains stream channel segments of "Volume" data for debris flow areas after fires during the year of 2015.<br><br><br>
 
 ### Geomagnetism (*gm* folder)
-There are currently no GIS services for any Geomagnetism projects within the team.  More information on the USGS Geomagnetism program can be found at: http://geomag.usgs.gov/<br><br>
+There are currently no GIS services for any Geomagnetism projects within the team.  More information on the USGS Geomagnetism program can be found at: http://geomag.usgs.gov/<br><br><br>
 
 
 ## Leveraging GIS Services
