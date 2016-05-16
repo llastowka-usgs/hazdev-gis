@@ -110,4 +110,4 @@ There are currently no GIS services for any Geomagnetism projects within the tea
 
 
 ## Leveraging GIS Services
-There are numerous ways to interact with and consume GIS data found in these services.  Please visit Esri's ArcGIS Server REST API website at: http://resources.arcgis.com/en/help/rest/apiref/ for more information.
+There are numerous ways to interact with and consume GIS data found in these services.  Please visit Esri's ArcGIS Server REST API documentation at: http://resources.arcgis.com/en/help/rest/apiref/ for more information.
