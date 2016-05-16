@@ -108,3 +108,6 @@ This service contains stream channel segments of "Volume" data for debris flow a
 ### Geomagnetism (*gm* folder)
 There are currently no GIS services for any Geomagnetism projects within the team.  More information on the USGS Geomagnetism program can be found at: http://geomag.usgs.gov/<br><br>
 
+
+## Leveraging GIS Services
+There are numerous ways to interact with and consume GIS data found in these services.  Please visit Esri's ArcGIS Server REST API website at: http://resources.arcgis.com/en/help/rest/apiref/ for more information.
