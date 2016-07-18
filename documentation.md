@@ -42,6 +42,11 @@ For more information about the project itself please visit: http://earthquake.us
 30 Day Significant Earthquake ShakeMap Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/sm_ShakeMap30DaySignificant/MapServer <br>
 This service contains ShakeMap station, mi, pga, pgv, psa03, psa10, and psa30 data.  It is updated every 15 minutes with significant earthquake events from around the world. <br><br><br>
 
+GIS Service for the **Earthquake Catalog**<br>
+
+Earthquake Catalog Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/catalog_2015/MapServer <br>
+This service contains earthquake catalog data from 1900 - 2015.  It is updated annually.<br><br><br>
+
 ### Earthquake Hazards (*haz* folder)
 There are currently GIS services for 1 project within the earthquake team.  This project is for the **Quaternary Faults of the United States**.<br> <br>
 
