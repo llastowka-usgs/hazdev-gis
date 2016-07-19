@@ -54,10 +54,12 @@ This service contains 2012 LandScan Population Data used in PAGER Project.  The 
 <br><br><br>
 
 ### Earthquake Hazards (*haz* folder)
-There are currently GIS services for 2 projects within the earthquake team.  One project is the **Quaternary Faults of the United States**. The other is the **National Seismic Hazards Mapping Project**.<br> <br>
 
-GIS Services for the **Quaternary Faults of the United States** Project <br>
-For more information about the project itself please visit: http://earthquake.usgs.gov/hazards/qfaults/<br>
+Hazards GIS Services <br>
+For more information about hazards projects, please visit: http://earthquake.usgs.gov/hazards/<br>
+
+Alaska Hazard Map - 10% in 50 year 1 hz: http://earthquake.usgs.gov/arcgis/rest/services/haz/AK1hz050_1999/MapServer <br>
+ Probabilistic seismic-hazard maps were prepared for Alaska portraying peak horizontal acceleration and horizontal spectral response acceleration for 0.2- and 1.0-second periods with probabilities of exceedance of 10 percent in 50 years and 2 percent in 50 years. This particular data set is for horizontal spectral response acceleration for 1.0-second period with a 10 percent probability of exceedance in 50 years. All of the maps were prepared by combining the hazard derived from spatially smoothed historic seismicity with the hazard from fault-specific sources. The acceleration values contoured are the random horizontal component. The reference site condition is firm rock, defined as having an average shear-wave velocity of 760 m/sec in the top 30 meters corresponding to the boundary between NEHRP (National Earthquake Hazards Reduction program) site classes B and C. For more information online visit: http://pubs.er.usgs.gov/publication/i2679, http://pubs.er.usgs.gov/publication/ofr9936, and http://earthquake.usgs.gov/hazards/
 
 Quaternary Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/qfaults/MapServer <br>
 This service contains quaternary fault traces and fault areas for the United States.
