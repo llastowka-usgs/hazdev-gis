@@ -45,6 +45,7 @@ GIS Service for the **Earthquake Catalog**<br>
 
 Earthquake Catalog Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/catalog_2015/MapServer <br>
 This service contains earthquake catalog data from 1900 - 2015.  It is updated annually.<br><br>
+GIS Service for **2012 Landscan Population Data used in PAGER Project**<br>
 
 2012 LandScan Population Data Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/pager_landscan2012bin/MapServer <br>
 This service contains 2012 LandScan Population Data used in PAGER Project.  The data is binned into 5 classes for display purposes.  Complete data information can be found at: http://web.ornl.gov/sci/landscan/
