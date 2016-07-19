@@ -54,7 +54,7 @@ This service contains 2012 LandScan Population Data used in PAGER Project.  The 
 <br><br><br>
 
 ### Earthquake Hazards (*haz* folder)
-There are currently GIS services for 1 project within the earthquake team.  This project is for the **Quaternary Faults of the United States**.<br> <br>
+There are currently GIS services for 2 projects within the earthquake team.  One project is the **Quaternary Faults of the United States**. The other is the **National Seismic Hazards Mapping Project**.<br> <br>
 
 GIS Services for the **Quaternary Faults of the United States** Project <br>
 For more information about the project itself please visit: http://earthquake.usgs.gov/hazards/qfaults/<br>
