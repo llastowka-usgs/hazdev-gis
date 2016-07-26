@@ -136,6 +136,7 @@ Gridded data for the 2008 United States Hazard maps.
 United States Overview Map: http://earthquake.usgs.gov/arcgis/rest/services/haz/USoverview/MapServer <br>
 Overview map of the United States. <br><br>
 
+**Faults** Services<br>
 Quaternary Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/qfaults/MapServer <br>
 This service contains quaternary fault traces and fault areas for the United States.
 
