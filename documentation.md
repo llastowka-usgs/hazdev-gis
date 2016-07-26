@@ -61,7 +61,7 @@ This service contains 2012 LandScan Population Data used in PAGER Project.  The 
 
 ### Earthquake Hazards (*haz* folder)
 
-Hazards GIS Services <br>
+**Hazards GIS Services** <br>
 For more information about hazards projects, please visit: http://earthquake.usgs.gov/hazards/<br>
 
 **Alaska Hazard Maps**<br>
