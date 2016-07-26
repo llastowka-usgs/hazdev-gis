@@ -134,7 +134,7 @@ Gridded data for the 2008 United States Hazard maps.
 2014 United States Hazard Map - 2% in 50 year PGA: http://earthquake.usgs.gov/arcgis/rest/services/haz/USpga250_2014/MapServer <br>
 
 United States Overview Map: http://earthquake.usgs.gov/arcgis/rest/services/haz/USoverview/MapServer <br>
-Overview map of the United States.
+Overview map of the United States. <br>
 
 Quaternary Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/qfaults/MapServer <br>
 This service contains quaternary fault traces and fault areas for the United States.
