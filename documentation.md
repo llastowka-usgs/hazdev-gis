@@ -38,7 +38,7 @@ This service contains a tweet density heatmap corresponding to the August 24, 20
 
 **-------Real-time GIS Service Feeds--------**
 
-30 Day Significant Event Feed GIS Service <br>
+30 Day Significant Event Feed GIS Service: http://earthquake.usgs.gov/arcgis/rest/services/eq/event_30DaySignificant/MapServer <br>
 This service contains event specific data for significant earthquakes over the past 30 days.  It is updated every 15 minutes. <br><br>
 
 GIS Service for the **ShakeMap** Project <br>
