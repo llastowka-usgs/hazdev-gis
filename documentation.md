@@ -36,7 +36,7 @@ This service contains tweets corresponding to the August 24, 2014 M6.0 Napa eart
 TED Napa Heatmap: http://earthquake.usgs.gov/arcgis/rest/services/eq/ted_NapaHeatmap/MapServer <br>
 This service contains a tweet density heatmap corresponding to the August 24, 2014 M6.0 Napa earthquake. <br><br>
 
-**Real-time GIS Service Feeds**
+**-------Real-time GIS Service Feeds--------**
 
 30 Day Significant Event Feed GIS Service <br>
 This service contains event specific data for significant earthquakes over the past 30 days.  It is updated every 15 minutes. <br><br>
@@ -52,6 +52,8 @@ For more information about the project itself please visit: http://earthquake.us
 
 30 Day Significant Earthquake Did You Feel It? Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/dyfi_30DaySignificant/MapServer <br>
 This service contains aggregated DYFI? responses for events within the last 30 days.  The responses are geographically aggregated into 1km and 10km boxes.  It is updated every 15 minutes in real-time. <br><br>
+
+**------------------------------------------**
 
 GIS Service for the **USGS Earthquake Catalog**<br>
 
