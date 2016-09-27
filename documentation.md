@@ -206,10 +206,10 @@ This service contains basin polygons with "Volume" data for debris flow areas af
 2015 Post-Fire Debris Flow Volume Segments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015VolumeSegments/MapServer <br>
 This service contains stream channel segments of "Volume" data for debris flow areas after fires during the year of 2015.
 
-2015 Post-Fire Debris Flow - Assessments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015/MapServer <br>
+2015 Post-Fire Debris Flow - Assessment Data: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2015/MapServer <br>
 This service contains post-fire debris flow data for select fires during the year of 2015. (Note: Most 2015 fires are contained in the other 2015 post-fire debris flow GIS services because they were created with a previous system architecture.)
 
-2016 Post-Fire Debris Flow - Assessments: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2016/MapServer <br>
+2016 Post-Fire Debris Flow - Assessment Data: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2016/MapServer <br>
 This service contains post-fire debris flow data for fires during the year of 2016.
 
 Post-Fire Debris Flow - Fire Locations: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_locations/MapServer <br>
