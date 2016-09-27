@@ -62,6 +62,9 @@ GIS Service for the **USGS Earthquake Catalog**<br>
 Earthquake Catalog Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/catalog_2015/MapServer <br>
 This service contains earthquake catalog data from 1900 - 2015.  It is updated annually.<br><br>
 
+Earthquake Catalog Feed (Feature Service): http://earthquake.usgs.gov/arcgis/rest/services/eq/catalog_2015feature/MapServer <br>
+This service contains earthquake catalog data from 1900 - 2015.  It is updated annually.<br><br>
+
 GIS Service for **2012 Landscan Population Data**<br>
 
 2012 LandScan Population Data Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/pager_landscan2012bin/MapServer <br>
