@@ -55,7 +55,7 @@ For more information about the project itself please visit: http://earthquake.us
 30 Day Significant Earthquake Did You Feel It? Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/dyfi_30DaySignificant/MapServer <br>
 This service contains aggregated DYFI? responses for events within the last 30 days.  The responses are geographically aggregated into 1km and 10km boxes.  It is updated every 15 minutes in real-time. <br>
 
-Note: Documentation and Python code outlining the process of deploying these near real-time services on a local GIS server can be found in the "NearRealTimeLiveFeedCode" folder.
+Note: Documentation and Python code outlining the process of deploying these near real-time services on a local GIS server can be found in the "NearRealTimeLiveFeedCode" folder of this Github repository.
 
 **------------------------------------------** <br>
 
