@@ -1,0 +1,4 @@
+USGS 30 Day Significant Event Near Real-time Feed Python Scripts
+----------------------------------------------------------------
+
+NOTE: Licensing for Esri software is needed to run ArcPy! This license does NOT accompany these scripts.

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+ <idinfo>
+  <citation>
+   <citeinfo>
+    <origin>Greg Smoczyk</origin>
+    <pubdate>20160101</pubdate>
+    <title>ShakeMap Significant Event Peak Ground Acceleration Polygon Feed</title>
+    <geoform>Vector Digital Data Set (Polygon)</geoform>
+   </citeinfo>
+  </citation>
+  <descript>
+   <abstract>Earthquake event data for significant earthquakes within the last month.</abstract>
+   <purpose>To allow GIS user access to earthquake event data for significant earthquakes.</purpose>
+  </descript>
+  <timeperd>
+   <timeinfo>
+    <sngdate>
+     <caldate>00000101</caldate>
+    </sngdate>
+   </timeinfo>
+   <current>ground condition</current>
+  </timeperd>
+  <status>
+   <progress>Complete</progress>
+   <update>Continually</update>
+  </status>
+  <spdom>
+   <bounding>
+    <westbc>-180.0</westbc>
+    <eastbc>180.0</eastbc>
+    <northbc>90</northbc>
+    <southbc>-90</southbc>
+   </bounding>
+  </spdom>
+  <keywords>
+   <theme>
+    <themekt>None</themekt>
+    <themekey>earthquake</themekey>
+    <themekey>ShakeMap</themekey>
+   </theme>
+  </keywords>
+  <accconst>None. Please see 'Distribution Info' for details.</accconst>
+  <useconst>None. Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+  <ptcontac>
+   <cntinfo>
+    <cntorgp>
+     <cntorg>U.S. Geological Survey, NORTHWEST REGION</cntorg>
+     <cntper>Gregory M Smoczyk</cntper>
+    </cntorgp>
+    <cntpos>IT Specialist</cntpos>
+    <cntaddr>
+     <addrtype>mailing address</addrtype>
+     <address>Mail Stop MS 966, 1711 Illinois St</address>
+     <city>Golden</city>
+     <state>CO</state>
+     <postal>80401</postal>
+    </cntaddr>
+    <cntvoice>303-273-8625</cntvoice>
+    <cntfax>303-273-8600</cntfax>
+    <cntemail>gsmoczyk@usgs.gov</cntemail>
+   </cntinfo>
+  </ptcontac>
+  <native>Environment as of Metadata Creation: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1 (Build 4959) Service Pack N/A (Build N/A)</native>
+ </idinfo>
+ <dataqual>
+  <attracc>
+   <attraccr>No formal attribute accuracy tests were conducted.</attraccr>
+  </attracc>
+  <logic>No formal logical accuracy tests were conducted.</logic>
+  <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+  <posacc>
+   <horizpa>
+    <horizpar>A formal accuracy assessment of the horizontal positional information in the data set has not been conducted.</horizpar>
+   </horizpa>
+   <vertacc>
+    <vertaccr>A formal accuracy assessment of the vertical positional information in the data set has either not been conducted, or is not applicable.</vertaccr>
+   </vertacc>
+  </posacc>
+  <lineage>
+   <srcinfo>
+    <srccite>
+     <citeinfo>
+      <origin>USGS</origin>
+      <pubdate>20160101</pubdate>
+      <title>USGS Earthquake Hazards Program</title>
+      <geoform>Other</geoform>
+      <pubinfo>
+       <pubplace>Golden, CO</pubplace>
+       <publish>USGS</publish>
+      </pubinfo>
+      <onlink>http://earthquake.usgs.gov/data/shakemap/</onlink>
+     </citeinfo>
+    </srccite>
+    <typesrc>Digital and/or Hardcopy Resources</typesrc>
+    <srctime>
+     <timeinfo>
+      <sngdate>
+       <caldate>00000101</caldate>
+      </sngdate>
+     </timeinfo>
+     <srccurr>ground condition</srccurr>
+    </srctime>
+    <srccitea>USGS ShakeMap PGA</srccitea>
+    <srccontr>Source information used in support of the development of the data set.</srccontr>
+   </srcinfo>
+   <procstep>
+    <procdesc>Development of the data set by the agency / individuals identified in the 'Originator' element in the Identification Info section of the record.</procdesc>
+    <procdate>00000101</procdate>
+   </procstep>
+  </lineage>
+ </dataqual>
+ <spdoinfo>
+  <direct>Vector</direct>
+  <ptvctinf>
+   <sdtsterm>
+    <sdtstype>G-polygon</sdtstype>
+    <ptvctcnt>1124</ptvctcnt>
+   </sdtsterm>
+  </ptvctinf>
+ </spdoinfo>
+ <spref>
+  <horizsys>
+   <geograph>
+    <latres>0.0198428981</latres>
+    <longres>0.0199253847</longres>
+    <geogunit>Decimal seconds</geogunit>
+   </geograph>
+   <geodetic>
+    <horizdn>D_WGS_1984</horizdn>
+    <ellips>WGS_1984</ellips>
+    <semiaxis>6378137.0</semiaxis>
+    <denflat>298.257223563</denflat>
+   </geodetic>
+  </horizsys>
+ </spref>
+ <eainfo>
+  <detailed Name="events">
+   <enttyp>
+    <enttypl>Attribute Table</enttypl>
+    <enttypd>Table containing attribute information associated with the data set.</enttypd>
+    <enttypds>Producer defined</enttypds>
+   </enttyp>
+   <attr>
+    <attrlabl>AREA</attrlabl>
+    <attrdef>Area</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>0</rdommin>
+      <rdommax>0</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>PERIMETER</attrlabl>
+    <attrdef>Perimeter</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>0</rdommin>
+      <rdommax>0</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>PGAPOL_</attrlabl>
+    <attrdef>Unknown</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>0</rdommin>
+      <rdommax>100000</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>PGAPOL_ID</attrlabl>
+    <attrdef>Unknown</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>1</rdommin>
+      <rdommax>100000</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>GRID_CODE</attrlabl>
+    <attrdef>Unknown</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>2</rdommin>
+      <rdommax>1000</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>PARAMVALUE</attrlabl>
+    <attrdef>Unknown</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>0.02</rdommin>
+      <rdommax>10.00</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>eventid</attrlabl>
+    <attrdef>Event ID</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <edom>
+      <edomv>aa00000000</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>version</attrlabl>
+    <attrdef>Unknown</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>1</rdommin>
+      <rdommax>100</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>eventdate</attrlabl>
+    <attrdef>Event Date</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <edom>
+      <edomv>0000-01-01T00:00:00.000Z</edomv>
+      <edomvd>Unknown</edomvd>
+      <edomvds>Producer defined</edomvds>
+     </edom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>Shape_Length</attrlabl>
+    <attrdef>Unknown</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>0</rdommin>
+      <rdommax>1000</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+   <attr>
+    <attrlabl>Shape_Area</attrlabl>
+    <attrdef>Unknown</attrdef>
+    <attrdefs>Producer defined</attrdefs>
+    <attrdomv>
+     <rdom>
+      <rdommin>0</rdommin>
+      <rdommax>1000</rdommax>
+     </rdom>
+    </attrdomv>
+   </attr>
+  </detailed>
+  <overview>
+   <eaover>The entity and attribute information provided here describes the tabular data associated with the data set. Please review the detailed descriptions that are provided (the individual attribute descriptions) for information on the values that appear as fields/table entries of the data set.</eaover>
+   <eadetcit>The entity and attribute information was generated by the individual and/or agency identified as the originator of the data set. Please review the rest of the metadata record for additional details and information.</eadetcit>
+  </overview>
+ </eainfo>
+ <distinfo>
+  <distrib>
+   <cntinfo>
+    <cntorgp>
+     <cntorg>U.S. Geological Survey, NORTHWEST REGION</cntorg>
+     <cntper>Gregory M Smoczyk</cntper>
+    </cntorgp>
+    <cntpos>IT Specialist</cntpos>
+    <cntaddr>
+     <addrtype>mailing address</addrtype>
+     <address>Mail Stop MS 966, 1711 Illinois St</address>
+     <city>Golden</city>
+     <state>CO</state>
+     <postal>80401</postal>
+    </cntaddr>
+    <cntvoice>303-273-8625</cntvoice>
+    <cntfax>303-273-8600</cntfax>
+    <cntemail>gsmoczyk@usgs.gov</cntemail>
+   </cntinfo>
+  </distrib>
+  <distliab>Distributor assumes no liability for misuse of data.</distliab>
+  <stdorder>
+   <digform>
+    <digtinfo>
+     <formname>Vector Digital Data Set (Polygon)</formname>
+    </digtinfo>
+    <digtopt>
+     <onlinopt>
+      <computer>
+       <networka>
+        <networkr>http://earthquake.usgs.gov/arcgis/rest/services/eq/sm_ShakeMap30DaySignificant/MapServer</networkr>
+       </networka>
+      </computer>
+     </onlinopt>
+    </digtopt>
+   </digform>
+   <fees>None. No fees are applicable for obtaining the data set.</fees>
+  </stdorder>
+ </distinfo>
+ <metainfo>
+  <metd>20160902</metd>
+  <metc>
+   <cntinfo>
+    <cntperp>
+     <cntper>GS-HAZ Metadata</cntper>
+     <cntorg>U.S. Geological Survey</cntorg>
+    </cntperp>
+    <cntaddr>
+     <addrtype>Mailing and Physical</addrtype>
+     <address>1711 Illinois St.</address>
+     <city>Golden</city>
+     <state>CO</state>
+     <postal>80401</postal>
+    </cntaddr>
+    <cntvoice>303-273-8600</cntvoice>
+    <cntemail>ghsc_metadata@usgs.gov</cntemail>
+   </cntinfo>
+  </metc>
+  <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  <metstdv>FGDC-STD-001-1998</metstdv>
+ </metainfo>
+</metadata>
