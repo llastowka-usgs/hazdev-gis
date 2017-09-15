@@ -41,7 +41,7 @@ This service contains a tweet density heatmap corresponding to the August 24, 20
 Web Map displaying the feeds below: http://usgs.maps.arcgis.com/home/webmap/viewer.html?webmap=5555eabe9d65418d8e0b5677b3fe59b5 <br><br>
 
 30 Day Significant Event Feed GIS Service: http://earthquake.usgs.gov/arcgis/rest/services/eq/event_30DaySignificant/MapServer <br>
-This service contains event specific data for significant earthquakes over the past 30 days. It is updated every 15 minutes. NOTE: This service runs on 2 servers that operate independently of each other. Some inconsistencies in data may occasionally be found over short periods of time due to different processing intervals, server maintenance, and other variables.<br><br>
+This service contains event specific data for significant earthquakes over the past 30 days. It is updated every 15 minutes. NOTE: This service runs on 2 servers that operate independently of each other. Some inconsistencies in data may occasionally be found over short periods of time due to different processing intervals, server maintenance, and other variables. This service runs on top of a GeoJSON feed that should be considered the authoritative source for event based data. The feed can be found at: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson<br><br>
 
 GIS Service for the **ShakeMap** Project <br>
 For more information about the project itself please visit: http://earthquake.usgs.gov/data/shakemap/ <br>
