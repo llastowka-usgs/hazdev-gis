@@ -167,7 +167,7 @@ This service contains traces for fault locations that were used to caclulate the
 This service contains traces for fault locations that were used to caclulate the 2014 National Seismic Hazards Mapping project data.<br><br><br>
 
 ### Landslides (*ls* folder)
-There are currently GIS services for 1 project within the landslides team.  This project is for **Post-Fire Debris-FLow Hazards**.<br> <br>
+There are currently GIS services for 1 project within the landslides team.  This project is for **Post-Fire Debris-Flow Hazards**.<br> <br>
 
 GIS Services for the **Post-Fire Debris-Flow Hazards** Project <br>
 For more information about the project itself please visit: http://landslides.usgs.gov/hazards/postfire_debrisflow/<br>
