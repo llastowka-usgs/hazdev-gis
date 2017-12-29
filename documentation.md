@@ -28,6 +28,7 @@ This service contains a grid of points showing subduction zone depth, dip, and s
 
 GIS Services for the **VS30** Project <br>
 For more information about the project itself please reference the following report: https://pubs.usgs.gov/of/2007/1357/pdf/OF07-1357_508.pdf <br>
+A web map displaying these data can be found at: http://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=8ac19bc334f747e486550f32837578e1<br>
 
 VS30 Raster: http://earthquake.usgs.gov/arcgis/rest/services/eq/vs30/MapServer <br>
 This service contains raster values for locations around the world.
