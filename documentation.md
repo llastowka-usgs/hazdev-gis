@@ -154,7 +154,7 @@ Overview map of the United States. <br><br>
 Quaternary Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/qfaults/MapServer <br>
 This service contains quaternary fault traces and fault areas for the United States.
 
-Paleosites: http://earthquake.usgs.gov/arcgis/rest/services/haz/paleosites/MapServer <br>
+Site Investigation Location/Paleosites: http://earthquake.usgs.gov/arcgis/rest/services/haz/site_investigations/MapServer <br>
 This service contains some paleosite locations near faults in the United States.
 
 2002 Hazard Faults: http://earthquake.usgs.gov/arcgis/rest/services/haz/hazfaults2002/MapServer <br>
@@ -174,6 +174,9 @@ For more information about the project itself please visit: http://landslides.us
 
 2016 Post-Fire Debris Flow - Assessment Data: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2016/MapServer <br>
 This service contains post-fire debris flow data for fires during the year of 2016.
+
+2017 Post-Fire Debris Flow - Assessment Data: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2017/MapServer <br>
+This service contains post-fire debris flow data for fires during the year of 2017.
 
 Post-Fire Debris Flow - Fire Locations: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_locations/MapServer <br>
 This service contains post-fire debris flow fire locations for all fire assessments.<br><br><br>
