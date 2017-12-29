@@ -26,6 +26,14 @@ This service contains linear contours showing subduction zone strike values arou
 Slab Grid Points: http://earthquake.usgs.gov/arcgis/rest/services/eq/slab_grid/MapServer <br>
 This service contains a grid of points showing subduction zone depth, dip, and strike values around the world <br><br>
 
+GIS Services for the **VS30** Project <br>
+For more information about the project itself please reference the following report: https://pubs.usgs.gov/of/2007/1357/pdf/OF07-1357_508.pdf <br>
+
+VS30 Raster: http://earthquake.usgs.gov/arcgis/rest/services/eq/vs30/MapServer <br>
+This service contains raster values for locations around the world.
+
+VS30 Points: http://earthquake.usgs.gov/arcgis/rest/services/eq/vs30points/MapServer <br>
+This service contains gridded VS30 point values for locations around the world. <br><br><br>
 
 GIS Services for the **Tweet Earthquake Dispatch (TED)** Project <br>
 For more information about the project itself please visit: http://earthquake.usgs.gov/earthquakes/ted/ <br>
