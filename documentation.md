@@ -1,7 +1,7 @@
 # USGS Geologic Hazards Science Center GIS Server Documentation
 ## http://earthquake.usgs.gov/arcgis/rest/services
 
-The USGS Geologic Hazards Science Center (GHSC) in Golden, CO maintains a GIS server with services pertaining to various geologic hazard disciplines including earthquakes and landslides.  This document provides an overview of the structure of this server and also outlines the GIS data it contains.
+The USGS Geologic Hazards Science Center (GHSC) in Golden, CO maintains GIS services pertaining to various geologic hazard disciplines including earthquakes and landslides.  This document provides an overview of the structure of this server and also outlines the GIS data it contains.
 
 There are 5 folders for varying geologic hazards in the home area on the GIS server. http://earthquake.usgs.gov/arcgis/rest/services
 They are eq (earthquakes), gm (geomagnetism), gp (geoprocessing), haz (earthquake hazards), and ls (landslides).  Each directory contains services with data that pertain to each discipline.  Services for each discipline are outlined below.
@@ -80,6 +80,9 @@ GIS Service for **2012 Landscan Population Data**<br>
 
 2012 LandScan Population Data Feed: http://earthquake.usgs.gov/arcgis/rest/services/eq/pager_landscan2012bin/MapServer <br>
 This service contains 2012 LandScan Population Data used in PAGER Project.  The data is binned into 5 classes for display purposes.  Complete data information can be found at: http://web.ornl.gov/sci/landscan/
+<br><br><br>
+
+### Geoprocessing (*gp* folder)
 <br><br><br>
 
 ### Earthquake Hazards (*haz* folder)
