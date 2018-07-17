@@ -190,6 +190,9 @@ This service contains post-fire debris flow data for fires during the year of 20
 2017 Post-Fire Debris Flow - Assessment Data: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2017/MapServer <br>
 This service contains post-fire debris flow data for fires during the year of 2017.
 
+2018 Post-Fire Debris Flow - Assessment Data: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_2018/MapServer <br>
+This service contains post-fire debris flow data for fires during the year of 2018.
+
 Post-Fire Debris Flow - Fire Locations: http://earthquake.usgs.gov/arcgis/rest/services/ls/pwfdf_locations/MapServer <br>
 This service contains post-fire debris flow fire locations for all fire assessments.<br><br><br>
 
